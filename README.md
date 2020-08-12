@@ -1,7 +1,8 @@
 # 基于Q-Learning解决迷宫问题
 
-<p><image src="https://img.shields.io/badge/强化学习-Q--Learning-brightgreen.svg"></image><image src="https://img.shields.io/badge/智能驾驶-Autonomous_Driving-orange.svg"></image>
+<p><image src="https://img.shields.io/badge/强化学习-Q--Learning-brightgreen.svg"></image>  <image src="https://img.shields.io/badge/智能驾驶-Autonomous_Driving-orange.svg"></image>
 </p>
+
 
 ## 项目介绍
 
